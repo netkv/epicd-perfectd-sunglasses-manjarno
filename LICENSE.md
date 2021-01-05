@@ -1,0 +1,10 @@
+soystemd license v1
+you can do anything as long as that "anything" inst trying to get support for this because THIS COMMES WITHOUT ANY WARRANTY so is just insane to ask me for support
+you cant:
+  make epicd run faster
+  make it less buggy
+  make it better
+  like epicd
+i cant:
+  never gona give you up
+  ~~make joke license~~
