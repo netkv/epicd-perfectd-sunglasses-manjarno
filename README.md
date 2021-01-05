@@ -3,5 +3,7 @@ welcome to place where no sanity check will be ever be able to help you... you m
 # systemd-perfectd
 aaa
 # dependency hell
+not just a bad hell its helld :sunglasses:
+
 mpv,curl,lolcat(ruby),echo,systemd,ps,find,bash,~~powershell~~,espeak,figlet,systemd,~~launchd~~,~~bedrock gnu/linux~~,systemd-systemd,systemd as pid 1,neofetch,
 bash script with 10k lines, glibc (musl is king), ~~systemd-homed~~
